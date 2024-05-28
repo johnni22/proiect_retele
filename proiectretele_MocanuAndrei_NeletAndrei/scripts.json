@@ -1,0 +1,33 @@
+{
+    "cont1": {
+        "sysinfo": "systeminfo",
+        "grep": "grep \"error\"",
+        "sort": "sort",
+        "uniq": "uniq",
+        "saluut": "echo \"salut\"",
+        "error_sort_unique": [
+            "grep",
+            "sort",
+            "uniq"
+        ],
+        "secventa_script": [
+            "grep",
+            "sort",
+            "uniq"
+        ]
+    },
+    "cont2": {
+        "salut": "echo \"Salutari\""
+    },
+    "cont3": {
+        "count_errors": "grep -c \"error\"",
+        "tac": "tac",
+        "tr": "tr",
+        "error_counter": [
+            "count_errors",
+            "tac",
+            "tr"
+        ],
+        "count_lines": "wc -l <input1.txt>"
+    }
+}

@@ -1,0 +1,7 @@
+info: system started
+error: failed to load module
+error: failed to load module
+warning: low memory
+error: disk not found
+info: update completed
+error: disk not found
